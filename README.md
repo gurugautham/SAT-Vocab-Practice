@@ -1,5 +1,5 @@
 # SAT-Vocab-Practice
-Helps you study for the SAT systematically and test current knowledge of words.
+Helps you study for the SAT systematically and test current knowledge of words. Look at the [demo](https://www.youtube.com/watch?v=uyNY74b9Wyc) for information on the code and how the website is used.
 
 ### Prerequisites
 
