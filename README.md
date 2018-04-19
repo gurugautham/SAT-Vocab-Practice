@@ -28,7 +28,7 @@ git clone https://github.com/gurugautham/SAT-Vocab-Practice
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](<Insert Link here>) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/gurugautham/SAT-Vocab-Practice/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Authors
 
