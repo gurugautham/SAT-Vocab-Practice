@@ -18,7 +18,7 @@ git clone https://github.com/gurugautham/SAT-Vocab-Practice
 ```
 
 3. Run
-  - Open index.html with your browser
+   - Open index.html with your browser
 
 
 ## Built With
